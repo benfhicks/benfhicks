@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m Ben!
 #### I'm a Data Scientist at Gopuff, working on Inventory Management and Demand Forecasting.
 - 👀 I’m interested in Bayesian Methods in ML, Reinforcement Learning, and Time Series Forecasting!
-- 🌱 I’m currently learning Reinforcement Learning!
-- ✨ I'm currently reading ![Probabilistic Machine Learning: An Introduction!](https://probml.github.io/pml-book/book1.html)
-- 📫 Reach me via ![LinkedIn!](https://www.linkedin.com/in/ben-f-hicks/)
+- 🌱 I’m currently learning PyTorch & Reinforcement Learning!
+- ✨ I'm currently reading [Probabilistic Machine Learning: An Introduction!](https://probml.github.io/pml-book/book1.html)
+- 📫 Reach me via [LinkedIn!](https://www.linkedin.com/in/ben-f-hicks/)
 
 <!---
 benfhicks/benfhicks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
